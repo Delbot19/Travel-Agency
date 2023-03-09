@@ -1,0 +1,24 @@
+{
+  "name": "site-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+
+    "type": "git",
+    "url": "git+https://github.com/Delbot19/Travel-Agency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delbot19/Travel-Agency/issues"
+  },
+  "homepage": "https://github.com/Delbot19/Travel-Agency#readme"
+}
